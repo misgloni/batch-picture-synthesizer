@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="batch-picture-synthesizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/batch_picture_synthesizer_jar</output-path>
+    <root id="archive" name="batch-picture-synthesizer.jar">
+      <element id="module-output" name="batch-picture-synthesizer" />
+    </root>
+  </artifact>
+</component>
